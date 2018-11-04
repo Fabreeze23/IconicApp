@@ -1,0 +1,6 @@
+framework module Pods_IconicApp {
+  umbrella header "Pods-IconicApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
